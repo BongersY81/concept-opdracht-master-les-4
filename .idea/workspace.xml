@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8ec9259-6d1c-4b90-a51a-9cbb4bd3023b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/READme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_copywriting.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_graphic-design.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_seo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_ux.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_web-design.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/icon_web-development.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/noise-texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/basic/basic-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/basic/basic-mobiel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/bonus/bonus-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/bonus/bonus-mobiel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/bonus/bonus-moving-link.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/image-screenshot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/screenshots/screenshot-main.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/squiggle_line.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/squiggle_line_stripe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/work-image-01.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/work-image-02.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/assets/work-image-03.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/concept opdracht les 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +39,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "uitwerkingen",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/yvonn/WebstormProjects/concept opdracht les 4/.idea/assets",
     "list.type.of.created.stylesheet": "CSS",
@@ -99,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759492008427</updated>
-      <workItem from="1759492008435" duration="4188000" />
+      <workItem from="1759492008435" duration="26682000" />
     </task>
     <servers />
   </component>
