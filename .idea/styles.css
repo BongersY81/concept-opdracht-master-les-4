@@ -5,7 +5,7 @@
     2. Typography
     3. Layout
         3.1 Reusables
-        3.2 Other
+        3.2 sections
     4. Areas
         4.1 Header
         4.2 Introduction
@@ -23,19 +23,19 @@
   --Blauw: #4B49E8;
   --Lichtpaars: #F2FOFF;
   --French-rose: #ED4385;
-  --zwart: #OCOCOC;
-  --lichtgrijs: #F3F6F;
+  --Zwart: #OCOCOC;
+  --Lichtgrijs: #F3F6F;
   --Grijs: #7A7A7A;
   --Wit: #FFFFFF;
-
 }
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-h1,h3 {
+h1,h2,h3 {
     font-family: "Merriweather", sans-serif;
     font-optical-sizing: auto;
     font-weight: light 300;
@@ -45,15 +45,29 @@ h1,h3 {
 }
 h1 {
     text-align: center;
-    position : relative;
-    top: 50px;
-    bottom: 60px;
-    left: 50px;
-    right:50px;
-    padding-right: 55px
-;
-    color: var(--wit);
+    padding-top: 50px;
+    /*position : relative;*/
+    /*top: 50px;*/
+    /*bottom: 60px;*/
+    /*left: 50px;*/
+    /*right:50px;*/
+    /*padding-right: 55px*/
+    color: var(--Wit);
 }
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    /*position: relative;*/
+    /*top:100px;*/
+    /*bottom: 2px;*/
+    color: var(--Zwart)
+
+
+}
+
+
 
 
 body {
@@ -81,6 +95,7 @@ body {
     justify-content: flex-end;
     list-style: none;
     padding: 5px;
+    color: var(--Wit);
     border: 2px solid black
 }
 
@@ -90,18 +105,23 @@ body {
 
     /* --------------- 3.1 Reusables ----------------------- */
 
-/* --------------- 3.2 Other --------------------------- */
-
+/* --------------- sections--------------------------- */
+section {
+    background-color: var(--Wit);
+}
 /* ------------------------------- 4. Areas ---------------------------------------- */
 
 /* --------------- 4.1 Header ------------------------- */
+Header {
+    background-color: var(--Paars);
+    color: var(--Wit);
 
 .header {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 40px 20px;
-    background-color: var(--blauw);
+
 
     }
 
@@ -121,7 +141,6 @@ body {
     align-items: center;
     flex-basis: 1000px;
     margin: 0 20px;
-    padding: 5px 0px;
     height: 500px;
     flex-grow: 0;
 
@@ -134,12 +153,13 @@ body {
     text-transform: uppercase;
     box-shadow: 5px 5px 10px;
     position: relative;
-    top: 250px;
-    bottom: 190px;
+    top: 90px;
+    bottom: ;
     padding: 25px 50px;
     border-radius: 50px 50px 50px 50px;
-    background-color:var(--french-rose);
-    color: var(--wit);
+    background-color:var(--French-rose);
+    border: none;
+    color: var(--Wit);
 
 
 }
@@ -159,7 +179,10 @@ body {
     flex-direction: column;
     align-items: center;
     flex-basis: 1000px;
-
+    height: 500px;
+    padding-top: 60px;
+    color: var(--Paars);
     border: 2px solid black;
+
 }
 /* ------------------------------- 5. Media queries ---------------------------------------- */
