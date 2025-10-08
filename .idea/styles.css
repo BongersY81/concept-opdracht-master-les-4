@@ -38,10 +38,21 @@
 h1,h3 {
     font-family: "Merriweather", sans-serif;
     font-optical-sizing: auto;
-    font-weight:light 300;
+    font-weight: light 300;
     font-style: normal;
     font-variation-settings:
             "wdth" 100;
+}
+h1 {
+    text-align: center;
+    position : relative;
+    top: 50px;
+    bottom: 60px;
+    left: 50px;
+    right:50px;
+    padding-right: 55px
+;
+    color: var(--wit);
 }
 
 
@@ -61,74 +72,94 @@ body {
 
 
 /* ------------------------------- 2. Typography ----------------------------------- */
-.navbar {
+
+
+.navbar ul {
     display: flex;
     flex-direction: row;
+    gap: 1rem;
     justify-content: flex-end;
-    align-items: center;
-
-
+    list-style: none;
+    padding: 5px;
+    border: 2px solid black
 }
-.nav-item {
 
-}
+
 /* ------------------------------- 3. Layout --------------------------------------- */
-.outer-container-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    border: 2px solid black;
 
-}
-.inner-container-header {
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-basis: 1200px;
-    margin: 0 20px;
-    border: 2px solid black;
-}
-
-.outer-container-introduction {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    border: 2px solid black;
-}
-.inner-container-introduction {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex-basis: 1200px;
-    margin: 0 20px;
-    flex-wrap: wrap;
-    border: 2px solid black;
-}
-
-/* --------------- 3.1 Reusables ----------------------- */
+    /* --------------- 3.1 Reusables ----------------------- */
 
 /* --------------- 3.2 Other --------------------------- */
 
 /* ------------------------------- 4. Areas ---------------------------------------- */
 
 /* --------------- 4.1 Header ------------------------- */
-. header {
+
+.header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 20px;
+    padding: 40px 20px;
+    background-color: var(--blauw);
+
+    }
+
+.outer-container-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 
 
+
+
+    border: 2px solid black;
 }
+.inner-container-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 1000px;
+    margin: 0 20px;
+    padding: 5px 0px;
+    height: 500px;
+    flex-grow: 0;
+
+
+
+    border: 2px solid black;
+}
+
 .header-button {
     text-transform: uppercase;
-
-
+    box-shadow: 5px 5px 10px;
+    position: relative;
+    top: 250px;
+    bottom: 190px;
+    padding: 25px 50px;
+    border-radius: 50px 50px 50px 50px;
+    background-color:var(--french-rose);
+    color: var(--wit);
 
 
 }
 
-/* --------------- 4.2 Introduction.  ------------------- */
 
+
+/* --------------- 4.2 Introduction.  ------------------- */
+.outer-container-introduction {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 2px solid black;
+}
+
+.inner-container-introduction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 1000px;
+
+    border: 2px solid black;
+}
 /* ------------------------------- 5. Media queries ---------------------------------------- */
