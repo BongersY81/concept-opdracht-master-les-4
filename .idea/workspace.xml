@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8ec9259-6d1c-4b90-a51a-9cbb4bd3023b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/assets/squiggle_line.svg" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assets/squiggle_line.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -42,7 +43,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;uitwerkingen&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yvonn/WebstormProjects/concept opdracht les 4/.idea/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WebstormProjects/concept opdracht les 4&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -59,13 +60,14 @@
       <recent name="C:\Users\yvonn\WebstormProjects\concept opdracht les 4\.idea\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebstormProjects\concept opdracht les 4\.idea" />
       <recent name="C:\Users\yvonn\WebstormProjects\concept opdracht les 4\.idea" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-WS-252.26830.93" />
       </set>
     </attachedChunks>
   </component>
@@ -78,6 +80,10 @@
       <updated>1759492008427</updated>
       <workItem from="1759492008435" duration="37934000" />
       <workItem from="1759656268950" duration="11255000" />
+      <workItem from="1760123608184" duration="299000" />
+      <workItem from="1760124190064" duration="61000" />
+      <workItem from="1760169237668" duration="32823000" />
+      <workItem from="1760259070923" duration="28139000" />
     </task>
     <servers />
   </component>
